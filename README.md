@@ -3,11 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Data Center Network Retrofit Project]https://github.com/Jbritt23/Data-Center-Network-Retrofit-Project
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python</b>
-  - [Data Center Network Retrofit Project)](https://github.com/Jbritt23/Data-Center-Network-Retrofit-Project)
+  - [Data Center Network Retrofit Project](https://github.com/Jbritt23/Data-Center-Network-Retrofit-Project)
 
 
