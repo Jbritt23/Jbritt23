@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]https://github.com/Jbritt23/Data-Center-Network-Retrofit-Project
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
