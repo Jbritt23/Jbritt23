@@ -6,6 +6,7 @@
 
   - [OpenDocAI](https://github.com/Jbritt23/OpenDocAI)
   - [TransAudit](https://github.com/Jbritt23/TransAudit)
+  - [LexiCorrect](https://github.com/Jbritt23/LexiCorrect)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
