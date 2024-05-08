@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jadarian! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Jadarian! <br/><a href="https://github.com/jbritt23">Programmer</a>, <a href="https://www.linkedin.com/in/jadarian-britt/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
