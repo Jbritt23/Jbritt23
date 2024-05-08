@@ -9,6 +9,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Data Center Network Retrofit Project](https://github.com/Jbritt23/Data-Center-Network-Retrofit-Project)
+    - [Data Center Network Retrofit Project](https://github.com/Jbritt23/Data-Center-Network-Retrofit-Project)
 
 
